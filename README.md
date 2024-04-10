@@ -52,3 +52,6 @@ This is a Tic Tac Toe game implemented in React. It allows two players to take t
 ## Contributing
 
 Contributions are welcome! If you have any ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+## Future Scope
+I will be working on adding additional features in this game soon.
